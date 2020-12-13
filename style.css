@@ -1,0 +1,12 @@
+.iarclasa {
+  background-color: darkturquoise;
+}
+
+.class {
+  color: darkmagenta;
+}
+
+.w100px {
+  width: 100px;
+  background-color: greenyellow !important;
+}
